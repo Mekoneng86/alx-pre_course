@@ -1,0 +1,6 @@
+$ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/mekoneng86/alx-pre_course.git                  
+$ git checkout -b update_script 
+$ touch 98
+$ git add 98
+$ git commit -m "My personal work"
+$ git push origin update_script
