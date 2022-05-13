@@ -3,4 +3,5 @@ $ git checkout -b update_script
 $ touch 98
 $ git add 98
 $ git commit -m "My personal work"
+$ git pull
 $ git push origin update_script
